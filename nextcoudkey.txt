@@ -1,0 +1,10 @@
+https://nextcloudpi.local:4443
+https://10.0.0.4:4443/
+ncp
+4Y4TEUQ/ybZfVrPhG67rSvm+cA4E8Sf/Wvh7sXO+6Io
+schnoad
+
+https://nextcloudpi.local
+ncp
+PbVHW2FGWxVNpAVZYE+aIRsa4t+JtHlrDqgGJph3tK0
+schnoad
